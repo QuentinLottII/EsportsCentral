@@ -1,5 +1,12 @@
 body{
-    background-color: rgb(205, 206, 209);
+    background-color: rgb(231, 232, 236);
+}
+
+h1{
+    margin-top: 50px;
+    color: #9b9d9e;
+    position: static;
+    font-family: 'Ropa Sans', sans-serif;
 }
 
 ul {
@@ -15,7 +22,7 @@ ul {
 
 li {
   float: left;
-  border-right: 1px solid #bbb; 
+  border-right: 1px solid #bbb;
 }
 
 li a {
@@ -25,8 +32,39 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: rgb(231, 161, 31);
+}
+
+h3{
+    font-family: 'Ropa Sans', sans-serif;
+    color: #9b9d9e;
+}
+
+p{
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 12px;
+    color: #9b9d9e;
+}
+
+h6{
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 13px;
+    color: #9b9d9e;
+}
+
+.picture{
+    position:static;
+    width: 250px;
+    height: 250px;
+}
+
+form{
+    color: #9b9d9e;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+ol{
+    color: #9b9d9e;
+    font-family: 'Ropa Sans', sans-serif;
 }
