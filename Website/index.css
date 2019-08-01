@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(231, 232, 236);
+    background-color: rgb(194, 196, 206);
 }
 
 
 h1{
     margin-top: 50px;
-    color: #9b9d9e;
+    color: #808283;
     position: static;
     font-family: 'Ropa Sans', sans-serif;
 }
@@ -39,7 +39,7 @@ li a:hover {
 
 h2{
     font-family: 'Ropa Sans', sans-serif;
-    color: #9b9d9e;
+    color: #808283;
 }
 
 #heading{
@@ -50,8 +50,8 @@ h2{
 
 p{
     font-family: 'Ropa Sans', sans-serif;
-    font-size: 12px;
-    color: #9b9d9e;
+    font-size: 14px;
+    color: #808283;
 }
 
 #heading2{
@@ -63,7 +63,7 @@ p{
 h6{
     font-family: 'Ropa Sans', sans-serif;
     font-size: 12px;
-    color: #9b9d9e;
+    color: #808283;
 }
 
 #heading3{
@@ -83,3 +83,36 @@ h6{
     width: 250px;
     height: 100px;
 }
+h6{
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 13px;
+    color: #808283;
+}
+
+.picture{
+    position:static;
+    width: 250px;
+    height: 250px;
+}
+
+form{
+    color: #808283;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+ol{
+    color: #808283;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+table{
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 14px;
+    color: #808283;
+    border: 1px solid #2b373f;
+}
+.results{
+    border: 1px solid #2b373f;
+
+}
+
