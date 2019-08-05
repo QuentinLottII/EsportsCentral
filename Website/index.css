@@ -52,6 +52,7 @@ p{
     font-family: 'Ropa Sans', sans-serif;
     font-size: 14px;
     color: #808283;
+    text-indent: 20px;
 }
 
 #heading2{
@@ -85,7 +86,7 @@ h6{
 }
 h6{
     font-family: 'Ropa Sans', sans-serif;
-    font-size: 13px;
+    font-size: 10px;
     color: #808283;
 }
 
@@ -103,6 +104,7 @@ form{
 ol{
     color: #808283;
     font-family: 'Ropa Sans', sans-serif;
+    font-size: 14px;
 }
 
 table{
@@ -129,4 +131,29 @@ table{
 #Team{
     height: 300px;
     width: 300px
+}
+
+#GOATS{
+    height: 250px;
+    width: 550px;
+}
+
+#boxart{
+    height: 250px;
+    width: 300px;
+}
+
+#screenshot{
+    height:200px;
+    width: 300px;
+}
+
+#role{
+    height: 250px;
+    width: 300px;
+}
+
+#Fargo{
+    height: 250px;
+    width: 300px;
 }
