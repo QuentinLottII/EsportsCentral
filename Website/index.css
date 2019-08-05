@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(194, 196, 206);
+    background-color: rgb(235, 236, 240);
 }
 
 
@@ -116,3 +116,17 @@ table{
 
 }
 
+#APEX{
+    height: 300px;
+    width: 300px;
+}
+
+#season1{
+    height: 400px;
+    width: 400px;
+}
+
+#Team{
+    height: 300px;
+    width: 300px
+}
