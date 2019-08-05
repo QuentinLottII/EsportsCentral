@@ -14,6 +14,7 @@ h1{
 .topnav {
   background-color: #36454f;
   overflow: hidden;
+  font-family: 'Ropa Sans', sans-serif;
 }
 
 .topnav a {
@@ -23,15 +24,17 @@ h1{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: 'Ropa Sans', sans-serif;
 }
 .topnav a:hover {
   background-color: #ddd;
   color: black;
+  font-family: 'Ropa Sans', sans-serif;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #36454f;
+  color: goldenrod;
 }
 
 h2{
